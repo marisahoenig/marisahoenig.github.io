@@ -2,7 +2,7 @@
   "name": "marisahoenig.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marisahoenig.github.io",
+  "homepage": "https://marisahoenig.github.io/",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
@@ -14,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
@@ -33,6 +33,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "2.0.1"
+    "gh-pages": "^2.1.1"
   }
 }
