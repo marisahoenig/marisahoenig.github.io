@@ -5,9 +5,14 @@ import { Link } from 'react-router-dom'
 const Header = () => {
     return (
         <div className="Header">
-            <Link to='/about'>About</Link>
-            <Link to='/blog'>Blog</Link>
-            <Link to='/contact'>Contact</Link>
+            <div className="Logo">
+                <Link to='/'>Marisa Hoenig</Link>
+            </div>
+            <div className="Nav">
+                <Link to='/about'>about</Link>
+                <Link to='/blog'>blog</Link>
+                <Link to='/contact'>contact</Link>
+            </div>
         </div>
     )
 }
