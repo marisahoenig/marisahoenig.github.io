@@ -1,4 +1,4 @@
-### Marisa Hoenig
+# Marisa Hoenig
 Welcome to my personal website, currently `under construction`.
 
 ## Featured
@@ -12,16 +12,16 @@ Welcome to my personal website, currently `under construction`.
 
 ## For Development
 
-# Pushing to Master
+### Pushing to Master
 1. Push to source
 2. Checkout master
 3. Git merge source
 4. Git checkout source
 5. Yarn deploy
 
-# Color Scheme
-Light Purple: #B37BA4
-Light Blue: #E1F2Fe
-Dark Blue Gray: #28536B
-Light Grayish Green: #C6D8D3
-Coral: #EF7674
+### Color Scheme
+- Light Purple: #B37BA4
+- Light Blue: #E1F2FE
+- Dark Blue Gray: #28536B
+- Light Grayish Green: #C6D8D3
+- Coral: #EF7674
