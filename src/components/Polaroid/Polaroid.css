@@ -3,6 +3,8 @@
     height: 500px;
     background-color: #ffffff;
     border-color: #28536B;
-    border-width: 20px;
+    border-width: 10px;
     border-style: solid;
+    display: flex;
+    flex-direction: column;
 }

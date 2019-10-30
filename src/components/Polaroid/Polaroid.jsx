@@ -3,11 +3,11 @@ import './Polaroid.css'
 import { Snapshot } from '../'
 import { SnapshotDescription }  from '../'
 
-const Polaroid = ({img, description}) => {
+const Polaroid = ({img, desc}) => {
     return (
         <div className="Polaroid">
             <Snapshot img={img}/>
-            <SnapshotDescription description={description}/>
+            <SnapshotDescription desc={desc}/>
         </div>
     )
 }

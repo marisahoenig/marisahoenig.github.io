@@ -1,10 +1,10 @@
 import React from 'react'
-// import './SnapshotDescription.css'
+import './SnapshotDescription.css'
 
-const SnapshotDescription = ({ img }) => {
+const SnapshotDescription = ({ desc }) => {
     return (
         <div className="SnapshotDescription">
-            
+            <h1>{desc}</h1>
         </div>
     )
 }
