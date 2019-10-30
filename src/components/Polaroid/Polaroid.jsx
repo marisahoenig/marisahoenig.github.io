@@ -1,10 +1,13 @@
 import React from 'react'
 import './Polaroid.css'
+import { Snapshot } from '../'
+import { SnapshotDescription }  from '../'
 
-const Polaroid = () => {
+const Polaroid = ({img, description}) => {
     return (
         <div className="Polaroid">
-            my polaroid
+            <Snapshot img={img}/>
+            <SnapshotDescription description={description}/>
         </div>
     )
 }

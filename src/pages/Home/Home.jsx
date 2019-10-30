@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className='Home'>
       Why, hello there!
-      <Polaroid />
+      <Polaroid img="" description="hey"/>
     </div>
   )
 }
