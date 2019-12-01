@@ -1,11 +1,11 @@
 import React from 'react'
 
 const Contact = () => {
-  return (
-    <div className='Contact'>
+	return (
+		<div className='Contact'>
       Contact me!
-    </div>
-  )
+		</div>
+	)
 }
 
 export default Contact

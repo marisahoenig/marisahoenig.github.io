@@ -1,4 +1,9 @@
 {
+    "settings": {
+        "react": {
+            "version": "16.10.2"
+        }
+    },
     "env": {
         "browser": true,
         "es6": true
@@ -37,6 +42,7 @@
         "semi": [
             "error",
             "never"
-        ]
+        ],
+        "react/prop-types": 0
     }
 }

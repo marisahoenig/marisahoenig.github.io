@@ -5,9 +5,9 @@ import Snapshot from './Snapshot'
 import SnapshotDescription from './SnapshotDescription'
 
 export {
-  App,
-  Header,
-  Polaroid,
-  Snapshot,
-  SnapshotDescription
+	App,
+	Header,
+	Polaroid,
+	Snapshot,
+	SnapshotDescription
 }

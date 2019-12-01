@@ -1,11 +1,11 @@
 import React from 'react'
 
 const Blog = () => {
-  return (
-    <div className='Blog'>
+	return (
+		<div className='Blog'>
       where I write
-    </div>
-  )
+		</div>
+	)
 }
 
 export default Blog

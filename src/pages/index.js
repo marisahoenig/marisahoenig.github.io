@@ -5,9 +5,9 @@ import Home from './Home'
 import Travels from './Travels'
 
 export {
-  About,
-  Blog,
-  Contact,
-  Home,
-  Travels
+	About,
+	Blog,
+	Contact,
+	Home,
+	Travels
 }
