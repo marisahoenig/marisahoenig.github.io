@@ -13,11 +13,17 @@ Welcome to my personal website, currently `under construction`.
 ## For Development
 
 ### Pushing to Master
-1. Push to source
-2. Checkout master
-3. Git merge source
-4. Git checkout source
-5. Yarn deploy
+1. `npm run lint`
+2. Push to source
+3. Checkout master
+4. Git merge source
+5. Git checkout source
+6. Yarn deploy
+
+### Running locally
+Install node modules: `npm install`
+
+Start the app: `npm start`
 
 ### Color Scheme
 - Light Purple: #B37BA4
@@ -25,3 +31,5 @@ Welcome to my personal website, currently `under construction`.
 - Dark Blue Gray: #28536B
 - Light Grayish Green: #C6D8D3
 - Coral: #EF7674
+
+
