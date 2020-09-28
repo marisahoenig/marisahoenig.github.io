@@ -2,12 +2,10 @@
 
 Adapted from <a href="https://github.com/rbhatia46/React-Portfolio">Rahul Bhatia</a>'s template. Many thanks!
 
-## Pushing to Master
+## deploying
+- Make all changes on source branch
 - Push to source
-- Checkout master
-- `git merge source`
-- `git checkout source`
-- `yarn deploy`
+- `npm run deploy` (pushes to master and deploys site)
 
 ## Running locally
 `npm install` - install node modules
