@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://marisahoenig.github.io/"
+  "homepage": "http://marisahoenig.github.io/",
   "dependencies": {
     "-": "0.0.1",
     "gh-pages": "^3.1.0",
