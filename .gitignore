@@ -5,3 +5,7 @@
 
 # production
 /build
+
+# misc
+.DS_Store
+public/.DS_Store
