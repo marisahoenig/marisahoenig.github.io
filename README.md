@@ -14,4 +14,6 @@ Adapted from <a href="https://github.com/rbhatia46/React-Portfolio">Rahul Bhatia
 ## Colors
 Lilac - #afa7d8
 Dark Green - #547562
-Bright Green - #a1b173
+Bright Green - #859753
+Dark Pink - #7d4453
+Light Pink - #d092ba
