@@ -594,7 +594,7 @@ ul#nav li.current a { color: #afa7d8; }
 }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'sans-serif';
    content: "\f0ac";
 	padding-right: 10px;
 	font-size: 72px;
@@ -661,11 +661,10 @@ call-to-action .button {
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
-#testimonials .header-col h1:before {
-   font-family: 'FontAwesome';
-   content: "\f10d";
-	padding-right: 10px;
-	font-size: 72px;
+#testimonials .fas fa-quote-left {
+   font-family: 'sans-serif';
+   padding-right: 10px;
+   font-size: 72px;
    line-height: 72px;
    text-align: left;
    float: left;
@@ -807,7 +806,7 @@ call-to-action .button {
 }
 #contact h1 span { display: none; }
 #contact h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'sans-serif';
    content: "\f0e0";
 	padding-right: 10px;
 	font-size: 72px;
@@ -978,28 +977,26 @@ footer .social-links li:first-child { margin-left: 0; }
 
 /* Go To Top Button */
 #go-top {
-	position: absolute;
+    position: absolute;
 	top: -24px;
-   left: 50%;
-   margin-left: -30px;
+    left: 50%;
+    margin-left: -30px;
 }
 #go-top a {
 	text-decoration: none;
 	border: 0 none;
 	display: block;
-	width: 60px;
-	height: 60px;
-	background-color: #525252;
-
+    height: 42px;
+    width: 42px;
+    font-size: 42px;
+    line-height: 42px;
+    color: #fff;
+    border-radius: 100%;
+    
    -webkit-transition: all 0.2s ease-in-out;
    -moz-transition: all 0.2s ease-in-out;
    -o-transition: all 0.2s ease-in-out;
    -ms-transition: all 0.2s ease-in-out;
    transition: all 0.2s ease-in-out;
-
-   color: #fff;
-   font-size: 21px;
-   line-height: 60px;
-   border-radius: 100%;
 }
-#go-top a:hover { background-color: #7d4453; }
+#go-top a:hover { color: #7d4453; }
