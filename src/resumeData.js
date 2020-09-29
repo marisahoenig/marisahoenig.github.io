@@ -22,7 +22,7 @@ let resumeData = {
         },
         {
           "name":"medium",
-          "url":"http://medium.com/marisahoenig",
+          "url":"http://medium.com/@marisahoenig",
           "className":"fab fa-medium-m"
         },
         {
