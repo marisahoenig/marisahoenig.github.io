@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '@fortawesome/fontawesome-free/js/all.js';
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;

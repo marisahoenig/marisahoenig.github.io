@@ -1,5 +1,4 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/", // TODO
     "name": "Marisa Hoenig",
     "role": "",
     "linkedinId":"Your LinkedIn Id",
@@ -9,17 +8,27 @@ let resumeData = {
         {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/marisahoenig",
-          "className":"fa fa-linkedin"
-        },
-        {
-          "name":"github",
-          "url":"http://github.com/marisahoenig",
-          "className":"fa fa-github"
+          "className":"fab fa-linkedin-in"
         },
         {
           "name":"twitter",
           "url":"http://twitter.com/marisahoenig",
-          "className":"fa fa-twitter"
+          "className":"fab fa-twitter"
+        },
+        {
+          "name":"instagram",
+          "url":"http://instagram.com/marisahoenig",
+          "className":"fab fa-instagram"
+        },
+        {
+          "name":"medium",
+          "url":"http://medium.com/marisahoenig",
+          "className":"fab fa-medium-m"
+        },
+        {
+          "name":"github",
+          "url":"http://github.com/marisahoenig",
+          "className":"fab fa-github"
         }
       ],
     "aboutme":"About me here",
