@@ -12,8 +12,8 @@ Adapted from <a href="https://github.com/rbhatia46/React-Portfolio">Rahul Bhatia
 `npm start` - start app on http://localhost:3000
 
 ## Colors
-Lilac - #afa7d8
-Dark Green - #547562
-Bright Green - #859753
-Dark Pink - #7d4453
-Light Pink - #d092ba
+- Lilac - #afa7d8
+- Dark Green - #547562
+- Bright Green - #859753
+- Dark Pink - #7d4453
+- Light Pink - #d092ba
