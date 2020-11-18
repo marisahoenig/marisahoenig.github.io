@@ -87,7 +87,6 @@ header .social {
    margin: 24px 0;
    padding: 0;
    font-size: 30px;
-   text-shadow: 0px 3px 3px rgba(0, 0, 0, .8);
 }
 header .social li {
    display: inline-block;
@@ -188,7 +187,7 @@ ul#nav li.current a { color: #afa7d8; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #afa7d8;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -198,13 +197,14 @@ ul#nav li.current a { color: #afa7d8; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   font: 28px/36px 'opensans-bold', sans-serif;
+   color: #000000;
    margin-bottom: 12px;
 }
 #about p {
-   line-height: 30px;
-   color: #7A7A7A;
+   line-height: 32px;
+   color: #000000;
+   font-size: 20px;
 }
 #about .profile-pic {
    position: relative;
@@ -933,8 +933,8 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #d092ba; }
-footer a:hover, footer a:focus { color: #7d4453; }
+footer a, footer a:visited { color: #afa7d8; }
+footer a:hover, footer a:focus { color: #859753; }
 
 /* copyright */
 footer .copyright {
