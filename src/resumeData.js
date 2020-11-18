@@ -2,7 +2,6 @@ let resumeData = {
     "name": "Marisa Hoenig",
     "role": "",
     "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
     "roleDescription": "I’m Marisa—a multi-passionate female technologist, world adventurer, and pun lover. I’m fascinated by technology and psychology, and I use the intersection of the two to help others grow. I tell corny jokes like it’s my job, and I’m always trying to make people smile.",
     "socialLinks":[
         {
