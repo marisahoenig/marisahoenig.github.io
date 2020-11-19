@@ -23,6 +23,9 @@ export default class Footer extends Component {
         <div id="go-top">
            <a className="smoothscroll" title="Back to Top" href="#home"><i className="fas fa-chevron-circle-up"></i></a>
         </div>
+        <div id="copyright">
+            Built with <i className="far fa-heart"></i> by Marisa.
+        </div>
       </div>
     </footer>
     );
