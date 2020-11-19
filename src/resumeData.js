@@ -85,6 +85,23 @@ let resumeData = {
         "description":"This is a sample testimonial",
         "name":"Some technical guy"
       }
+    ],
+  "podcastLinks":[
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/blossomingtechnologist",
+        "className":"fab fa-instagram"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/blssmngtchnlgst",
+        "className":"fab fa-twitter"
+      },
+      {
+        "name":"anchor",
+        "url":"https://anchor.fm/blossoming-technologist",
+        "className":"fas fa-link"
+      }
     ]
   }
 
