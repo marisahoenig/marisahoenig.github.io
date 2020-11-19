@@ -1,7 +1,5 @@
 let resumeData = {
     "name": "Marisa Hoenig",
-    "role": "",
-    "linkedinId":"Your LinkedIn Id",
     "roleDescription": "Hi, I’m Marisa—a multi-passionate female technologist, world adventurer, and pun lover. I’m fascinated by technology and psychology, and I use the intersection of the two to help others grow. I tell corny jokes like it’s my job, and I’m always trying to make people smile.",
     "socialLinks":[
         {
@@ -21,7 +19,7 @@ let resumeData = {
         },
         {
           "name":"medium",
-          "url":"http://medium.com/@marisahoenig",
+          "url":"http://marisahoenig.medium.com",
           "className":"fab fa-medium-m"
         },
         {
@@ -30,7 +28,6 @@ let resumeData = {
           "className":"fab fa-github"
         }
       ],
-    "aboutme":"About me here",
     "education":[
       {
         "UniversityName":"Georgia Institute of Technology",
