@@ -257,6 +257,33 @@ ul#nav li.current a { color: #afa7d8; }
 
 
 /* ------------------------------------------------------------------ */
+/* Writing Section
+/* ------------------------------------------------------------------ */
+
+#writing {
+    background: #afa7d8;
+    padding-top: 96px;
+    padding-bottom: 66px;
+    overflow: hidden;
+}
+
+#writing p {
+    color: #000000;
+    font-size: 18px;
+}
+
+#writing #mediumlinks {
+    display: grid;
+}
+
+#writing a {
+    color: #000000;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+
+/* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
@@ -998,7 +1025,7 @@ footer .social-links li:first-child { margin-left: 0; }
     width: 42px;
     font-size: 42px;
     line-height: 42px;
-    color: #afa7d8;
+    color: #fff;
     border-radius: 100%;
 
    -webkit-transition: all 0.2s ease-in-out;
