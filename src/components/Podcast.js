@@ -13,6 +13,7 @@ export default class Podcast extends Component {
                       A podcast for young professionals growing in the tech industry.
                       How do you get an internship? What are the different career paths in tech?
                       We'll explore all your questions and more, hearing stories of everyday young professionals to empower technologists with tools to thrive.
+                      New episodes every Monday, starting November 23.
                       </p>
                       <div>
                           <ul className="links">

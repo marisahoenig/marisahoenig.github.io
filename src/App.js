@@ -3,6 +3,7 @@ import Header from './components/Header';
 import About from './components/About';
 import Footer from './components/Footer';
 import Podcast from './components/Podcast';
+import Writing from './components/Writing';
 import resumeData from './resumeData';
 class App extends Component {
   render() {
@@ -11,6 +12,7 @@ class App extends Component {
         <Header resumeData={resumeData}/>
         <About resumeData={resumeData}/>
         <Podcast resumeData={resumeData}/>
+        <Writing resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>
     );
