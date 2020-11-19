@@ -87,7 +87,6 @@ header .social {
    margin: 24px 0;
    padding: 0;
    font-size: 30px;
-   text-shadow: 0px 3px 3px rgba(0, 0, 0, .8);
 }
 header .social li {
    display: inline-block;
@@ -188,7 +187,7 @@ ul#nav li.current a { color: #afa7d8; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #afa7d8;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -198,13 +197,14 @@ ul#nav li.current a { color: #afa7d8; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   font: 28px/36px 'opensans-bold', sans-serif;
+   color: #000000;
    margin-bottom: 12px;
 }
 #about p {
-   line-height: 30px;
-   color: #7A7A7A;
+   line-height: 32px;
+   color: #000000;
+   font-size: 20px;
 }
 #about .profile-pic {
    position: relative;
@@ -218,18 +218,42 @@ ul#nav li.current a { color: #afa7d8; }
    padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
-#about .download .button {
-   margin-top: 6px;
-   background: #444;
+
+
+/* ------------------------------------------------------------------ */
+/* Podcast Section
+/* ------------------------------------------------------------------ */
+
+#podcast {
+    background: #ebfbfb;
+    padding-top: 90px;
+    padding-bottom: 72px;
+    overflow: hidden;
 }
-#about .download .button:hover {
-   background: #fff;
-   color: #2B2B2B;
+
+#podcast p {
+    color: #000000;
+    font-size: 18px;
 }
-#about .download .button i {
-   margin-right: 15px;
-   font-size: 20px;
+
+#podcast #caption {
+    font-size: 14px;
+    text-align: center;
 }
+
+/* header social links */
+#podcast .links {
+   margin: 24px 0;
+   padding: 0;
+   font-size: 30px;
+}
+#podcast .links li {
+   display: inline-block;
+   margin: 0 15px;
+   padding: 0;
+}
+#podcast .links li a { color: #6c7c7c; }
+#podcast .links li a:hover { color: #74836b; }
 
 
 /* ------------------------------------------------------------------ */
@@ -933,8 +957,8 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #d092ba; }
-footer a:hover, footer a:focus { color: #7d4453; }
+footer a, footer a:visited { color: #afa7d8; }
+footer a:hover, footer a:focus { color: #859753; }
 
 /* copyright */
 footer .copyright {
@@ -991,7 +1015,7 @@ footer .social-links li:first-child { margin-left: 0; }
     width: 42px;
     font-size: 42px;
     line-height: 42px;
-    color: #fff;
+    color: #7a6c84;
     border-radius: 100%;
 
    -webkit-transition: all 0.2s ease-in-out;
@@ -1000,4 +1024,4 @@ footer .social-links li:first-child { margin-left: 0; }
    -ms-transition: all 0.2s ease-in-out;
    transition: all 0.2s ease-in-out;
 }
-#go-top a:hover { color: #7d4453; }
+#go-top a:hover { color: #b2c2a2; }
