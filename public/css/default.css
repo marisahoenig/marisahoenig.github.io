@@ -594,10 +594,6 @@ input[type="checkbox"] { display: inline; }
    width: 96%;
    max-width: 1020px;
    margin: 0 auto;
-   display: flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-   align-items: center;
 }
 /* fixed width for IE8 */
 .ie .row { width: 1000px ; }
