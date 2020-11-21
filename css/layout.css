@@ -265,6 +265,17 @@ ul#nav li.current a { color: #afa7d8; }
 #podcast .links li a { color: #6c7c7c; }
 #podcast .links li a:hover { color: #74836b; }
 
+#pod-embed {
+    display: flex;
+    justify-content: center;
+}
+
+#pod-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 
 /* ------------------------------------------------------------------ */
 /* Writing Section
