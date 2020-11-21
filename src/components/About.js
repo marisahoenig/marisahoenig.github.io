@@ -5,15 +5,10 @@ export default class About extends Component {
     return (
       <section id="about">
          <div className="row">
-
-            <div className="three columns">
-
+            <div className="three columns profile-container">
                <img className="profile-pic"  src="images/headshot.jpg" alt="Headshot" />
-
             </div>
-
             <div className="nine columns main-col">
-
                <h2>Nice to meet ya!</h2>
                <p>
                {
