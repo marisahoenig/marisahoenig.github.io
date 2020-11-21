@@ -189,9 +189,16 @@ ul#nav li.current a { color: #afa7d8; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
+.about-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 #about {
    background: #afa7d8;
-   padding-top: 96px;
+   padding-top: 66px;
    padding-bottom: 66px;
    overflow: hidden;
 }
