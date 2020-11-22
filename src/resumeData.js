@@ -32,24 +32,17 @@ let resumeData = {
       {
         "UniversityName":"Georgia Institute of Technology",
         "specialization":"Computer Science",
-        "MonthOfPassing":"Dec",
-        "YearOfPassing":"2018",
+        "startDate":"Aug. 2015",
+        "endDate":"Dec. 2018",
         "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
         "CompanyName":"ThoughtWorks",
-        "specialization":"Software Developer",
-        "MonthOfLeaving":"",
-        "YearOfLeaving":"present",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "specialization":"Software Developer Consultant",
+        "startDate":"Apr. 2019",
+        "endDate":"Present",
         "Achievements":"Some Achievements"
       }
     ],
